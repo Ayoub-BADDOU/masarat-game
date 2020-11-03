@@ -1,0 +1,22 @@
+
+
+.content{
+    margin-top: 100px;
+    max-width: 800px;
+}
+
+
+.content .choose{
+    margin-top: 60px;
+}
+
+.content .row img{
+    width: 400px;
+}
+
+.content .row p{
+    margin-top: 60px;
+    font-size: 20px;
+    font-style: italic;
+    color: rosybrown;
+}
